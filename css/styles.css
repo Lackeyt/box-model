@@ -1,24 +1,25 @@
-html {
+body{
+  font-family: sans-serif;
   border: 5px solid green;
   padding: 3%;
   margin: 20px;
   background-color: black;
   color: white;
 }
-
 .sidebar {
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
   float: right;
   font-size: 30px;
   width: 20%;
-  border: 5px solid green;
+  border: 5px solid darkslategray;
   padding: 3%;
   margin: 20px;
-  background-color: black;
-  color: white;
+  background-color: darkgrey;
+  color: black;
 }
 
-.li {
+li {
 font-weight: bold;
 }
 
