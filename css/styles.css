@@ -1,22 +1,14 @@
 body{
   font-family: sans-serif;
-  border: 5px solid green;
-  padding: 3%;
-  margin: 20px;
-  background-color: black;
-  color: white;
-}
-.sidebar {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-weight: bold;
-  float: right;
-  font-size: 30px;
-  width: 20%;
   border: 5px solid darkslategray;
   padding: 3%;
   margin: 20px;
-  background-color: darkgrey;
   color: black;
+}
+.sidebar {
+  border: 3px solid darkslategray;
+  color: black;
+  align-items: center;
 }
 
 li {
